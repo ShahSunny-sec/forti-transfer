@@ -1,0 +1,21 @@
+# Large generated test files
+test_4gb.bin
+test_*.bin
+received_*.bin
+*.part
+*.failed
+
+# Generated crypto material — create with make_certs.py / make_keys.py
+approach-a-mtls/certs/*.pem
+approach-a-mtls/certs/*.key
+approach-b-envelope/keys/*.key
+
+# Python artifacts
+__pycache__/
+.venv/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
