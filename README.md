@@ -13,6 +13,16 @@ Two meaningfully different implementations for securely transferring large files
 | **Integrity** | TLS record MAC + SHA-256 | AEAD tag per chunk + SHA-256 |
 
 ---
+## Demo Video
+
+This short walkthrough demonstrates:
+- both secure transfer approaches
+- 4GB file transfer
+- SHA-256 verification
+- authentication failure handling
+
+Video Link:
+https://youtu.be/abc123xyz](https://youtu.be/t2WiWvuFNvg
 
 ## Requirements
 
