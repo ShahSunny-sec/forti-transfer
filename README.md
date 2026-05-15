@@ -22,7 +22,7 @@ This short walkthrough demonstrates:
 - authentication failure handling
 
 Video Link:
-https://youtu.be/abc123xyz](https://youtu.be/t2WiWvuFNvg
+https://youtu.be/t2WiWvuFNvg
 
 ## Requirements
 
